@@ -2,6 +2,7 @@
 layout: post
 title: "文章格式代码记录"
 author: "KenFreeman"
+comments: true
 tags: 知识
 ---
 
