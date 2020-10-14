@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          Ken Freeman
+description:    "My Space 2020"
+url:            "https://kenfreemanliu.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Ken Freeman Liu
+  url:          https://kenfreemanliu.github.io
+  email:        ken@lianghetech.cn
 
 # Build settings
 markdown:       kramdown
