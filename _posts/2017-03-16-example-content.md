@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Example Content"
-author: "Chester"
-tags: Example
+title: "文章格式代码记录"
+author: "KenFreeman"
+tags: 知识
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis. Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.
-
+本文没有作者内容，读者请忽略。下面都是文章格式的代码记录，用于以后使用时备忘查询。
+<br>
+<br>
 # Headers
 {% highlight markdown %}
 # H1
